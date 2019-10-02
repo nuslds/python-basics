@@ -542,9 +542,11 @@ print(fruits) # ['Apple', 'Pear']
 
 ## 7. Dictionaries
 
-<p style="font-size: 16px">Dictionaries are another data structure. You can think of it as a list of key:value pairs. It will make it possible to recall a value by its key instead of using an index number.<br>Below is an example of a dictionary.</p>
+Dictionaries are another data structure. You can think of it as a list of key:value pairs. It will make it possible to recall a value by its key instead of using an index number.<br>Below is an example of a dictionary.
+
 ### Accessing a value
-<p style="font-size: 16px">You can look up values using square brackets that enclose the key.</p>
+You can look up values using square brackets that enclose the key.
+
 ```python
 fruits_color = {
     'apple': 'red',
@@ -560,7 +562,8 @@ print(fruits_color['apple']) # 'red'
 
 ### Mutability
 
-<p style="font-size: 15px;">Similar to lists, dictionaries in Python are mutable. It means that we can change the value of an object in the dictionary after it has been created.</p>
+Similar to lists, dictionaries in Python are mutable. It means that we can change the value of an object in the dictionary after it has been created.
+
 ```python
 fruits_color = {
     'apple': 'red',
