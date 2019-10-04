@@ -5,20 +5,6 @@ Just trying to get you familiarised with building blocks in Python!
 The course materials are adapted from [this ](http://datacarpentry.org/python-socialsci/)[Data Carpentry lesson - Data Analysis and Visualization with Python for Social Scientists](https://datacarpentry.org/python-socialsci/)[.](http://datacarpentry.org/python-socialsci/) Please note that it is designed for participants with no programming experience.
 
 
-
-## Getting Started
-
-### Installing Python & Jupyter Notebook
-
-We will be using **Python 3** and Juptyer Notebook in our workshops. Both of them are free.
-
-- You are strongly recommended to install the [Anaconda distribution of Python](https://www.anaconda.com/distribution/) (Python 3.7) for your OS with default options. This includes both Python, Jupyter Notebook and some other pre-installed Python packages.
-- Alternatively, you can follow the instructions below to install them separately.
-  - [Python](https://wiki.python.org/moin/BeginnersGuide/Download)
-  - [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-notebook)
-
-
-
 ## 1. Arithmetic Operators
 
 - `+`: Addition
