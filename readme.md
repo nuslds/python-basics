@@ -491,6 +491,7 @@ print(fruits) #['Apple', 'Pear', 'Pineapple']
 #### join
 
 <p style="font-size: 15px;">It returns a string consisting of the list elements joined by a given separator.</p>
+
 `list.join(separator)`
 
 - separator: the specified separator.
@@ -507,6 +508,7 @@ fruits = ['Apple', 'Pear', 'Peach', 'Pineapple', 'Durian']
 
 ### append
 <p style="font-size: 15px;">It adds and element to the end of a list.</p>
+
 `list.append(item)`
 
 - item: the item to add
